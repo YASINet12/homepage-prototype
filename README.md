@@ -1,3 +1,2 @@
-Ce dépôt contient le prototype de la page d’accueil conçu avec Figma. Il peut être utilisé comme référence pour le développement du site web.
 
-![Uploading figma.jpg…]()
+![figma](https://github.com/user-attachments/assets/6fb79e36-9b18-478b-89af-e6b0efb85eb9)
